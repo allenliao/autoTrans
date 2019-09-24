@@ -1,5 +1,7 @@
 建一個 資料夾C:\sikulix
 下載
+https://raiman.github.io/SikuliX1/downloads.html
+
 sikulix.jar
 jython-standalone-2.7.1.jar
 依照"Needed for scripting support in the IDE and running scripts from commandline"的 指示 兩個 JAR都放在同一個 資料夾
