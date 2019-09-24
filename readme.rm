@@ -1,0 +1,15 @@
+建一個 資料夾C:\sikulix
+下載
+sikulix.jar
+jython-standalone-2.7.1.jar
+依照"Needed for scripting support in the IDE and running scripts from commandline"的 指示 兩個 JAR都放在同一個 資料夾
+執行java -jar C:\sikulix\sikulix.jar
+
+就裝好了
+
+使用教學：
+http://sikulix.com/quickstart/#qs2
+
+
+
+執行：java -jar C:\sikulix\sikulix.jar -r main.py
