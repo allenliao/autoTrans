@@ -12,6 +12,9 @@ jython-standalone-2.7.1.jar
 使用教學：
 http://sikulix.com/quickstart/#qs2
 
+要能正確貼讓簡體中文要把WINDOWS 設成簡體中文
+
+執行：java -jar C:\sikulix\sikulix.jar -r autoTrans.py
 
 
-執行：java -jar C:\sikulix\sikulix.jar -r main.py
+https://blog.xuite.net/alec5439/BlueFantasy/421692858-%E8%8B%B1%E6%96%87%E7%89%88%E6%9C%AC+Windows+10+%E4%B8%AD%E6%96%87%E9%A1%AF%E7%A4%BA%E4%BA%82%E7%A2%BC+%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%B3%95
